@@ -42,5 +42,9 @@ public class Hello {
         System.out.println("float:"+myFloatValue);
         System.out.println("double:"+myDoubleValue);
 
+        //other way of numbers, zero in the end neglecting
+        double otherNumber = 3_0000_1__2.014__565_7_00000;
+        System.out.println("otherNumber:"+otherNumber);
+
     }
 }
