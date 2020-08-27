@@ -31,5 +31,9 @@ public class Hello {
             System.out.println("isCar false");
         }
 
+        if (isCar == false){
+            System.out.println("isCar false - 2nd way of expression");
+        }
+
     }
 }
