@@ -26,5 +26,10 @@ public class Hello {
 
         short myNextShortValue = (short)(myMaxShortValue/2);
 
+        boolean isCar = false;
+        if (!isCar){
+            System.out.println("isCar false");
+        }
+
     }
 }
