@@ -35,6 +35,11 @@ public class Hello {
             System.out.println("isCar false - 2nd way of expression");
         }
 
+        /*block
+        *    comments */
+
+//        line comments
+
         int myIntValue = 5/3;
         float myFloatValue = 5.00f/3.00f;
         double myDoubleValue = 5.00/3.00;
